@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chonguk Im
+## 👋 Hi, I’m Chonguk Im
 - 👀 I’m interested in Web developer
 - 🌱 I’m currently learning Basic JAVA
 - 💞️ I’m looking to collaborate on ...
