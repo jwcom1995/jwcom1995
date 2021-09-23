@@ -1,5 +1,5 @@
 <div align="center">
- <h2> jwcom1995 🌱</h2>
+ <h2>🌱 jwcom1995 🌱</h2>
  <b>안녕하세요. 신입개발자 임종욱 입니다.</b> <br><br>
  <a href="https://www.notion.so/s-Notion-e387ead994d74f80ad18d9ccf473648e"><img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=Notion&logoColor=white"/></a>
  <img alt="Gmail" src ="https://img.shields.io/badge/95god95@gmail.com-EA4335.svg?&style=flat&logo=Gmail&logoColor=white"/>
