@@ -1,6 +1,7 @@
 <div align="center">
- <h2> 안녕하세요 신입개발자 임종욱 입니다.🌱</h2>
-
+ <h2> jwcom1995 🌱</h2>
+안녕하세요. 신입개발자 임종욱 입니다.
+ <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
   <h2> 🛠 Tech Stack 🛠 </h2><br>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="Javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
