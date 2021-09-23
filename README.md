@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning 
 - <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 - <img alt="Javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+- <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jwcom1995@naver.com or 95god95@gmail.com
 
