@@ -9,11 +9,11 @@
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/>
 <img alt="Javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/>
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
-<img alt="CSS" src ="https://img.shields.io/badge/css3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
+<img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
 <img alt="MYSQL" src ="https://img.shields.io/badge/MYSQL-4479A1.svg?&style=flat&logo=MYSQL&logoColor=white"/>
 <img alt="JQuery" src ="https://img.shields.io/badge/JQuery-0769AD.svg?&style=flat&logo=JQuery&logoColor=white"/>
-<img alt="C++" src ="https://img.shields.io/badge/c++-00599C.svg?&style=flat&logo=c++&logoColor=white"/>
+<img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c++&logoColor=white"/>
 </div><br><br><br><br><br><br>
 <hr>
 
