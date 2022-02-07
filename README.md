@@ -19,7 +19,6 @@
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
 <img alt="MYSQL" src ="https://img.shields.io/badge/MYSQL-4479A1.svg?&style=flat&logo=MYSQL&logoColor=white"/>
 <img alt="JQuery" src ="https://img.shields.io/badge/JQuery-0769AD.svg?&style=flat&logo=JQuery&logoColor=white"/>
-<img alt="JSON" src ="https://img.shields.io/badge/JSON-000000.svg?&style=flat&logo=JSON&logoColor=white"/>
 </div><br><br><br><br><br><br>
 <hr>
 
