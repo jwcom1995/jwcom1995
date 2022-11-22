@@ -11,15 +11,16 @@
   <img alt="Naver" src ="https://img.shields.io/badge/jwcom1995@naver.com-03C75A.svg?&style=flat&logo=Naver&logoColor=white"/>
  <br><br>
   <h2> 🛠 Tech Stack 🛠 </h2><br>
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/>
-<img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c++&logoColor=white"/>
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
-<img alt="Javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/>
-<img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
-<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
-<img alt="MYSQL" src ="https://img.shields.io/badge/MYSQL-4479A1.svg?&style=flat&logo=MYSQL&logoColor=white"/>
-<img alt="JQuery" src ="https://img.shields.io/badge/JQuery-0769AD.svg?&style=flat&logo=JQuery&logoColor=white"/>
-<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=Spring&logoColor=white">
+  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white"/>
+  <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c++&logoColor=white"/>
+  <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
+  <img alt="Javascript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white"/>
+  <img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
+  <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
+  <img alt="MYSQL" src ="https://img.shields.io/badge/MYSQL-4479A1.svg?&style=flat&logo=MYSQL&logoColor=white"/>
+  <img alt="JQuery" src ="https://img.shields.io/badge/JQuery-0769AD.svg?&style=flat&logo=JQuery&logoColor=white"/>
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=Spring&logoColor=white"/>
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000.svg?&style=flat&logo=Oracle&logoColor=white"/>
 </div><br><br><br><br><br><br>
 <hr>
 
