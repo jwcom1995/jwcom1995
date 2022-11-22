@@ -19,7 +19,7 @@
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
 <img alt="MYSQL" src ="https://img.shields.io/badge/MYSQL-4479A1.svg?&style=flat&logo=MYSQL&logoColor=white"/>
 <img alt="JQuery" src ="https://img.shields.io/badge/JQuery-0769AD.svg?&style=flat&logo=JQuery&logoColor=white"/>
-<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white">
+<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=Spring&logoColor=white">
 </div><br><br><br><br><br><br>
 <hr>
 
